@@ -4,4 +4,4 @@ pushing new folder to repo
 
 # Local dev
 
-1.Open index.html
+1.Open index.html.
